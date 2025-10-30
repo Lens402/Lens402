@@ -6,7 +6,6 @@
   <b>Pay-Per-Use Solana Blockchain History Protocol with x402</b><br/>
   Instant blockchain data access — no accounts, no API keys, just pay and query.
 
-  CA: 7T1Ta1xsgiEqsVo1wry2Tr7sSfCzr1UuMTNKJZubpump
 </p>
 
 ---
