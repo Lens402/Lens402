@@ -10,13 +10,13 @@
 ---
 
 <p align="center">
-  <a href="https://" target="_blank">
+  <a href="https://lens402.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Website-blue?style=for-the-badge" alt="Website"/>
   </a>
-  <a href="https://" target="_blank">
+  <a href="https://docs.lens402.com" target="_blank">
     <img src="https://img.shields.io/badge/📘 Docs-green?style=for-the-badge" alt="Docs"/>
   </a>
-  <a href="https://x.com/" target="_blank">
+  <a href="https://x.com/Lens402Protocol" target="_blank">
     <img src="https://img.shields.io/badge/🐦 Twitter-skyblue?style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
